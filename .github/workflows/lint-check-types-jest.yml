@@ -1,5 +1,6 @@
 name: Lint, Check Types, Jest
 on: push
+
 jobs:
 build:
   name: Lint, Check Types, Jest
